@@ -6,6 +6,17 @@
 
 To interface a servo motor with an Arduino Uno development board and control its angular position using analog output signals.
 
+## COMPONENTS REQUIRED:
+
+1. Servo motor
+
+2. Arduino Uno
+
+3. USB Interfacing cable
+
+4. Connecting wires
+
+
 ## Algorithm:
 
 1. Start the program and include the Servo library.
